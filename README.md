@@ -23,3 +23,6 @@ Curso introdutório de Python 3, com foco no desenvolvimento de lógica de progr
 | 05 | Condições em Python (if/else) |
 | 06 | Adicionando cores ao Python |
 
+# Evoluindo Um Commit de Cada Vez
+
+"A vida é construída nas pequenas escolhas de hoje que moldam o destino de amanhã."
