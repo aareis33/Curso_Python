@@ -25,4 +25,4 @@ Curso introdutório de Python 3, com foco no desenvolvimento de lógica de progr
 
 # Evoluindo Um Commit de Cada Vez
 
-"A vida é construída nas pequenas escolhas de hoje que moldam o destino de amanhã."
+A vida é construída nas pequenas escolhas de hoje que moldam o destino de amanhã.
