@@ -26,3 +26,5 @@ if m >= 6.00:
     print('sua media foi boa')
 else:
     print('sua media foi ruim')
+
+
